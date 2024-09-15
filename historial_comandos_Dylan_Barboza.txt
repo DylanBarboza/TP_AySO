@@ -1,0 +1,411 @@
+ls -la
+ls .ssh/
+ssh 
+ssh keygen --help
+help
+history
+4
+ssh keygen --help
+history
+ssh keygen
+ssh /keygen
+ssg -keygen
+history
+ssh-keygen -t ed25519
+ls -la .ssh/
+cat
+cd repogit/
+cd TP_AySO/
+ls -la
+cat lista_ordenada.txt 
+short -k 7 lista_ordenada.txt 
+sort -k 7 lista_ordenada.txt 
+cat lista_ordenada.txt 
+history
+ls -la
+cat lista_ordenada.txt 
+grep -v "nologin" /etc/passwd | head -n 10 sort  | -k 7 > lista_ordenada.txt
+grep -v "nologin" /etc/passwd | head -n 10 | sort -k 7 > lista_ordenada.txt
+cat lista_ordenada.txt 
+grep -i https://www.ubuntu.com/ /etc/os-release
+whoami
+echo "Usuario=$(whoami)"> datos_usuario.txt
+ls -l
+rm -rf datos_usuario.txt
+ls -la
+cd repogit/
+ls -la
+rm -rf datos_usuario.txt
+ls -la
+cd repogit/
+ls -la
+echo "Usuario=$(whoami)"> datos_usuario.txt
+ls -la
+git add .
+ls .la
+ls -la
+rm -rf datos_usuario.txt 
+ls -la
+cd TP_AySO/
+echo "Usuario=$(whoami)"> datos_usuario.txt
+ls -la
+git add .
+ls .la
+ls -la
+git
+git add 
+git config --global user.email "barbozadylan44@gmail.com"
+git config --global user.name "BarbozaDylan"
+git commit -m "ADD: agregando 1er ejercicios sobre datos_usuarios.txt"
+git status
+git push
+git stauts
+git status
+grep
+ls -la
+git 
+git show
+git status
+/proc/ grep model name
+grep /proc/model
+grep "model name" /proc/cpuinfo >> repogit/TP_AySO/datos_usuario.txt
+grep "model name" /proc/cpuinfo >>> repogit/TP_AySO/datos_usuario.txt
+ls -la
+cd repogit/
+ls -la
+cd repogit/
+ls -la
+grep /proc/cpuinfo 
+ls -la
+cd repogit/
+ls -la
+cd repogit/
+ls -la
+cp TP_AySO/
+cd TP_AySO/
+ls -la
+cat datos_usuario.txt 
+head -n 1 datos_usuario.txt
+ls -la
+cat datos_usuario.txt 
+cat datos_usuario.txt --show-all 
+cat datos_usuario.txt --help 
+cat datos_usuario.txt -n
+cat datos_usuario.txt 
+cat datos_usuario.txt -n
+cat datos_usuario.txt -n1
+cat datos_usuario.txt -1
+cat datos_usuario.txt -n1 
+cat datos_usuario.txt  --number 1
+cat datos_usuario.txt head -n 1 
+head datos_usuario.txt -n 1
+cat datos_usuario.txt 
+head datos_usuario.txt -n1
+cat datos_usuario.txt 
+head -n 1 datos_usuario.txt 
+head -n1 datos_usuario.txt 
+grep 'model name' datos_usuario.txt | head -n 1
+cat datos_usuario.txt 
+grep 'model name' datos_usuario.txt | head -n 1
+cat datos_usuario.txt 
+grep 'model name' datos_usuario.txt | head -n 1
+git push
+ls -la
+cat datos_usuario.txt 
+rm -rf datos_usuario.txt 
+ls -la
+grep "model name" /proc/cpuinfo head -n1 >> datos_usuario.txt
+grep head -n1 "model name" /proc/cpuinfo >> datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+cat datos_usuario.txt 
+ls -la
+cat datos_usuario.txt
+ls -la
+rm -rf datos_usuario.txt 
+[200~grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n 1 > datos_usuario.txt
+cat datos_usuario.txt 
+ls -la
+cat datos_usuario.txt 
+history
+ls -la
+rm -rf datos_usuario.txt 
+ls -la
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls -la
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n 1 > datos_usuario.txt
+ls -la
+cat datos_usuario.txt 
+rm -rf datos_usuario.txt 
+ls -la
+echo “Usuario=$(whoami)” > datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+ls -la
+cat datos_usuario.txt 
+git push
+git status
+git add datos_usuario.txt 
+git push
+git status
+git push
+git status
+git show
+git push datos_usuario.txt
+git push
+git status
+git push origin
+git status
+git push main
+ls -la
+git push datos_usuario.txt
+cat datos_usuario.txt 
+git commit -m "ADD: Datos del procesador"
+git status
+git push
+git status
+git show
+git status
+feat: Añadiendo información de CPU
+ls -la
+touch "lista_ordenada"
+ls -la
+rm -rf lista_ordenada
+touch "lista_ordenada.txt"
+ls -la
+grep "nologin" /etc/passwd | head -n 7 >> lista_ordenada.txt
+ls -la
+cat lista_ordenada.txt 
+ls -la
+rm -rf lista_ordenada.txt
+grep "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+cat lista_ordenada.txt 
+rm -rf lista_ordenada.txt 
+ls -la
+man grep
+grep -b "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+ls -la
+cat lista_ordenada.txt 
+rm -rf lista_ordenada.txt 
+ls -la
+rm -rf strig
+ls -la
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+cat lista_ordenada.txt 
+grep man
+ls -la
+cd repogit/
+ls -la
+cd repogit/
+ls -la
+cd TP_AySO/
+ls -la
+cat --help
+cat -A
+ls -la
+cd repogit/
+grep "model name" copy datos_usuario.txt
+ls -la
+rm -rf TP_AySO
+ls -la
+cd repogit/
+ls -la
+cd TP_AySO/
+ls -la
+grep "model name" /proc/cpuinfo >> datos_usuario.txt
+cat datos_usuario.txt 
+ls -la
+cat datos_usuario.txt rm model name
+cat datos_usuario.txt -rm model name
+cat datos_usuario.txt -r model name
+cat help
+cat
+grep "model name" /proc/cpuinfo > repogit/TP_AySO/datos_usuario.txt
+grep "model name" /proc//cpuinfo >> repogit/TP_AySO
+LS -LA
+ls -la
+cd repogit/
+ls -la
+cd repogit/
+ls -la
+ls -la
+cd repogit/
+ls -la
+cd repogit/
+ls -la
+cd TP_AySO/
+ls -la
+/proc
+cpuinfo
+git cpuinfo
+git --hlep
+git --help
+ls -la
+cd ..
+ls -la
+cd ..
+ls -la
+cd ..
+ls -la
+cd .gitconfig
+model name
+ls -la
+grep
+grep "model name"
+ll
+cd repogit/
+ll
+git clone https://github.com/DylanBarboza/TP_AySO.git
+ll
+cd TP_AySO/
+ll
+cat /etc/os-release
+| 
+|
+ls -l
+cd ..
+ls la
+ls -l
+rm TP_AySO/
+ls la
+ls -l
+rm TP_AySO/
+cd ..
+ls -la
+rm TP_AySO/
+-rm TP_AySO/
+cd repogit/
+ls -la
+rm TP_AySO/
+-r TP_AySO/
+-rm TP_AySO/
+rm -r TP_AySO/
+ls -la
+rm -r TP_AySO/
+ls -la
+cd
+ls -la
+rm -r TP_AySO/
+ls -la
+rm -r -f TP_AySO/
+ls -la
+cd repogit/
+ls -la
+rm -r -f TP_AySO/
+ls -la
+cd repogit/
+ls -la
+git clone git@github.com:DylanBarboza/TP_AySO.git
+ls -la
+cat /etc/os-release
+HOME_URL
+man grep
+ls -la
+man grep
+cat /etc/os-release
+grep -i https://www.ubuntu.com/
+ls -la
+cd repogit/
+ls -la
+cd repogit/
+ls -la
+cd TP_AySO/
+ls -la
+grep /proc/cpuinfo 
+cat /etc/os-release
+grep -i https://www.ubuntu.com/ /etc/os-release
+grep -i HOME_URL /etc/os-release
+grep -i home_url /etc/os-release
+grep i
+ls -la
+cd repogit/
+cd TP_AySO/
+ls -la
+man -k network
+ls -la
+rm -rf comando_dump_net
+echo "El comando que utilize para buscar fue man -k network, y el comando que nos dio fue tcpdump" > comando_dump_net.txt
+ls -la
+cat comando_dump_net.txt 
+echo "El comando que utilize para buscar fue man -k network, y el comando que nos dio fue tcpdump." > comando_dump_net.txt
+cat lista_ordenada.txt 
+
+git add comando_dump_net.txt
+git commit -m "ADD: Como busque el comando de la RED."
+git push
+
+rm -rf .lista_ordenada.txt.swp 
+ls -la
+cat README.md 
+ls -la
+echo "" >> README.md
+ls -la
+cat README.md
+
+cat README.md
+echo "Alumno : Dylan Barboza" > README.md
+cat README.md 
+echo "Division : 318-2" > README.md
+echo "Turno : Noche" > README.md
+cat README.md
+echo "Alumno : Dylan Barboza" > README.md
+cat README.md 
+echo "Division : 318-2" >> README.md
+cat README.md 
+echo "Turno : Noche" >> README.md
+cat README.md 
+git add README.md 
+git commit -m "ADD : Mis datos personales UTN"
+git push
+history -a
+ls -la
+cd ..
+ls -la
+cd vagrant/
+ls -la
+touch Historial_comandos_<Dylan-Barboza>.txt
+echo 
+echo Historial_comandos_<Dylan-Barboza>.txt
+echo "Historial_comandos_<Dylan-Barboza>.txt"
+ls -la
+echo -o "Historial_comandos_<Dylan-Barboza>.txt"
+ls -la
+echo -o Historial_comandos_<Dylan-Barboza>.txt
+touch archivo.txt
+ls -la
+rm -rf archivo.txt 
+ls -la
+touch historial_comandos_Dylan_Barboza.txt
+ls -la
+clone .bash_history
+clone .bash_history >> historial_comandos_Dylan_Barboza.txt
+ls -la
+rm -rf historial_comandos_Dylan_Barboza.txt 
+ls -la
+cd repogit/
+cd TP_AySO/
+ls -la
+touch historial_comandos_Dylan_Barboza.txt
+ls -la
+clone .bash_history >> historial_comandos_Dylan_Barboza.txt 
+cd ..
+ls -la
+rclone .bash_history
+ls -la
+cd repogit/
+cd TP_AySO/
+ls -la
+history -a >> historial_comandos_Dylan_Barboza.txt 
+ls -la
+cat historial_comandos_Dylan_Barboza.txt 
+cat historial_comandos_Dylan_Barboza.txt
+history -a > historial_comandos_Dylan_Barboza.txt 
+cat historial_comandos_Dylan_Barboza.txt 
+ls -la
+cat historial_comandos_Dylan_Barboza.txt 
+cat lista_ordenada.txt 
+cat historial_comandos_Dylan_Barboza.txt 
+ls -la
+rm -rf historial_comandos_Dylan_Barboza.txt
+ls -la
+history -a >> historial_comandos_Dylan_Barboza.txt 
